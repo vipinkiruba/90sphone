@@ -1,0 +1,121 @@
+body{
+    background: #eff0eb;
+}
+.imgcol img{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+button{
+    background: transparent;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  padding: 0px 0px 0px 0px;
+  text-decoration: none;
+  border: none;
+}
+.button1{
+    position: absolute;
+    top: 420px;
+    left: 114px;
+}
+.button1:hover{
+    border: solid thin #dd7483;
+}
+.button2{
+    position: absolute;
+    top: 427px;
+    left: 158px;
+}
+.button2:hover{
+    border: solid thin #dd7483;
+}
+.button3{
+    position: absolute;
+    top: 420px;
+    left: 205px;
+}
+.button3:hover{
+    border: solid thin #dd7483;
+}
+.button4{
+    position: absolute;
+    top: 453px;
+    left: 111px;
+}
+.button4:hover{
+    border: solid thin #dd7483;
+}
+.button5{
+    position: absolute;
+    top: 461px;
+    left: 156px;
+}
+.button5:hover{
+    border: solid thin #dd7483;
+}
+.button6{
+    position: absolute;
+    top: 455px;
+    left: 202px;
+}
+.button6:hover{
+    border: solid thin #dd7483;
+}
+.button7{
+    position: absolute;
+    top: 489px;
+    left: 111px;
+}
+.button7:hover{
+    border: solid thin #dd7483;
+}
+.button8{
+    position: absolute;
+    top: 495px;
+    left: 156px;
+}
+.button8:hover{
+    border: solid thin #dd7483;
+}
+.button9{
+    position: absolute;
+    top: 491px;
+    left: 202px;
+}
+.button9:hover{
+    border: solid thin #dd7483;
+}
+.button10{
+    position: absolute;
+    top: 525px;
+    left: 111px;
+}
+.button10:hover{
+    border: solid thin #dd7483;
+}
+.button11{
+    position: absolute;
+    top: 526px;
+    left: 156px;
+}
+.button11:hover{
+    border: solid thin #dd7483;
+}
+.button12{
+    position: absolute;
+    top: 525px;
+    left: 202px;
+}
+.button12:hover{
+    border: solid thin #dd7483;
+}
+footer{
+    text-align: center;
+}
+footer a{
+text-decoration: none;
+color: #dd7483;
+text-align: center;
+}
